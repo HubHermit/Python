@@ -1,0 +1,4 @@
+This is a line of text from the file mbox
+This is another line of text
+This line contains the word cheese
+'Cheese' is also here
